@@ -8,20 +8,26 @@
 
 I'm a **rising Junior** majoring in **Computer Science** with double minors in **Mathematics** and **Economics**.  I am comfortable with **Machine Learning**, **Statistics**, and **Back-end Development**. Currently I am working as a Data Science Research Assistant for a Network Dynamics project.
 
-I believe **sharing my knowledge** is the best way to reinforce my learning process. That is why I am happy that my club - **Berea College Data Science Club** got approved and will be lauching soon!
+I believe **sharing my knowledge** is the best way to reinforce my learning process. That is why I am happy to share that my club - **Berea College Data Science Club** got approved and will be lauching soon!
 
-Coonect with me me on **[Linkedin](https://linkedin.com/in/ahnngo)** for any career opportunities 🚀
+Connect with me me on **[Linkedin](https://linkedin.com/in/ahnngo)** for any career opportunities 🚀
 
 ---
 
 ## **Languages and Tools I Know**:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
+<img align="left" alt="Numpy" width="26px" src="https://icons-for-free.com/download-icon-NumPy-1324888747155633047_256.icns" />
+<img align="left" alt="Panda" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1PzGID0hvBb8sIctrCeNDwx8yKhUgOD3pA&usqp=CAU" /> 
+<img align="left" alt="Matplotlib" width="26px" src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" />
+<img align="left" alt="Seaborn" width="26px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" /> 
+<img align="left" alt="Scipy" width="26px" src="https://scipy.org/images/logo.svg" /> 
+<img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" /> 
+<img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" /> 
+<img align="left" alt="Python" width="26px" src="https://thepier-house.co.uk/wp-content/uploads/2021/06/phyton.png" /> 
+<img align="left" alt="SQL" width="26px" src="https://www.logolynx.com/images/logolynx/73/73dcca5b2435a4fc91983ab4170cd695.png" /> 
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
+<img align="left" alt="Jupyter Notebook" width="26px" src="https://technology.amis.nl/wp-content/uploads/2020/11/image-27.png" /> 
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
