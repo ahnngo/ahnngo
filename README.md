@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Anh 👋
 
-[![Website](https://img.shields.io/website?label=rammaheshwari.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anh-ngo-poftfolio.netlify.app/)
+[![Website](https://img.shields.io/badge/AHNNGO.COM-UP-brightgreen)](https://anh-ngo-poftfolio.netlify.app/)
 
 ## Data Science Student 👨‍💻 - Research Assistant 🚀 - Music Lover 🎵
 
