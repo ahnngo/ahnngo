@@ -10,7 +10,7 @@ I'm a **rising Junior** majoring in **Computer Science** with double minors in *
 
 I believe **sharing my knowledge** is the best way to reinforce my learning process. That is why I am happy to share that my club - **Berea College Data Science Club** got approved and will be lauching soon!
 
-Connect with me me on **[Linkedin](https://linkedin.com/in/ahnngo)** for any career opportunities 🚀
+Connect with me on **[Linkedin](https://linkedin.com/in/ahnngo)** for any career opportunities 🚀
 
 ---
 
