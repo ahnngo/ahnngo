@@ -1,4 +1,4 @@
-<!-- <img src="https://media-exp1.licdn.com/dms/image/C4E16AQELzyFEyK9W8A/profile-displaybackgroundimage-shrink_350_1400/0/1631182670615?e=1636588800&v=beta&t=Vg4CGg7fzybyR_dScRlbSPJqwC7LHJltc2vfYmtoA_U" alt="Banner of Ram Maheshwari | rammcodes"> -->
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C4E16AQELzyFEyK9W8A/profile-displaybackgroundimage-shrink_350_1400/0/1631182670615?e=1636588800&v=beta&t=Vg4CGg7fzybyR_dScRlbSPJqwC7LHJltc2vfYmtoA_U" alt="Banner of Anh Ngo | ahnngo"> -->
 
 ## Hi there, I'm Anh 👋
 
@@ -6,11 +6,11 @@
 
 ## Data Science Student 👨‍💻 - Research Assistant 🚀 - Music Lover 🎵
 
-I'm a **rising Junior** majoring in **Computer Science** with double minors in **Mathematics** and **Economics**. While building any product, I always make sure that whatever I'm building, it's going to **solve problems** and it's going to **provide value** no matter how small or large the product is.
+I'm a **rising Junior** majoring in **Computer Science** with double minors in **Mathematics** and **Economics**.  I am comfortable with **Machine Learning**, **Statistics**, and **Back-end Development**. Currently I am working as a Data Science Research Assistant for a Network Dynamics project.
 
-I also like **sharing content** related to the stuff that I have learned over the years in **Web Development** so it can help other people of the **Dev Community**.
+I believe **sharing my knowledge** is the best way to reinforce my learning process. That is why I am happy that my club - **Berea College Data Science Club** got approved and will be lauching soon!
 
-Follow me on **[Linkedin](https://linkedin.com/in/rammcodes)** for the **Awesome** content related to **Web Development** and **Programming** 🚀
+Coonect with me me on **[Linkedin](https://linkedin.com/in/ahnngo)** for any career opportunities 🚀
 
 ---
 
@@ -41,7 +41,7 @@ I'm **open** to full-time opportunities where I can **contribute**, **learn** an
 
 ## **Stats** ⚡
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rammcodes)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnngo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
